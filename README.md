@@ -30,4 +30,4 @@ Detail how others can contribute to this project. This might include:
 - The process for submitting pull requests.
 ```
 
-[opencv.mp4](../../OneDrive/Videos/opencv.mp4)
+![Screenshot of my project](images/Screenshot%202025-07-03%20095319.png)
