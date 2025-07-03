@@ -71,7 +71,7 @@ Detail how others can contribute to this project. This might include:
 - Coding standards.
 - How to submit bug reports or feature requests.
 - The process for submitting pull requests.
-```
+
 
 ## Project Showcase
 
