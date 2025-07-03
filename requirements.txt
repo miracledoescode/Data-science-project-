@@ -1,0 +1,9 @@
+opencv-python
+Jupyterlab
+notebook
+voila
+pandas 
+matplotlib
+plotly
+numpy
+seaborn
