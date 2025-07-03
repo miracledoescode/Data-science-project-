@@ -77,4 +77,4 @@ Detail how others can contribute to this project. This might include:
 
 Below is an image demonstrating an example of the face detection capabilities discussed:
 
-![Face Detection Example](openCV_images/my_images.png)
+![Face Detection Example](./openCV_images/my_images.png)
