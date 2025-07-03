@@ -30,4 +30,4 @@ Detail how others can contribute to this project. This might include:
 - The process for submitting pull requests.
 ```
 
-![Screenshot of my project](images/Screenshot%202025-07-03%20095319.png)
+![Screenshot of my project](openCV_images/my_images.png)
