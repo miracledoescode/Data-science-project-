@@ -17,6 +17,9 @@ Explain how to run the code or use the project. This might include:
 - Scripts to execute for data processing or model training.
 - Jupyter notebooks to explore.
 - How to interpret the results.
+- using OpenCV to do the face detection and recognition
+- To run the code: python src/main.py or images.py
+- you cd into the main directory to run the code directly
 
 ## Contributing
 
